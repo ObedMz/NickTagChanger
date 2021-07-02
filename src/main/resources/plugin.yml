@@ -1,0 +1,7 @@
+name: NameTagChanger
+version: ${project.version}
+main: obed.me.nametag.Main
+api-version: 1.16
+authors: [ obedmz ]
+description: nametag changer
+website: obedmz.github.io
